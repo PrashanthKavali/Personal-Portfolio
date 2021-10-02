@@ -285,6 +285,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   font-family: "Poppins", sans-serif;
 }
+#hero span{
+  color: #d43076;
+}
+#hero .type-text > .txt{
+  border-right: 0.1rem solid #d43076;
+}
 #hero .btn-get-started {
   font-size: 64px;
   transition: 0.5s;
